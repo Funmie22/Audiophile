@@ -1,21 +1,24 @@
-# 🎧 Audiophile E-commerce
+🎧 Audiophile
 
-A modern, responsive e-commerce website for high-end audio equipment built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
+A sleek and fully responsive e-commerce web application for premium audio gear — designed with Next.js 14, TypeScript, and Tailwind CSS for performance, scalability, and modern aesthetics.
 
-## 🚀 Features
+🚀 Features
 
-- **Modern Stack**: Next.js 14 App Router, TypeScript, Tailwind CSS
-- **E-commerce Functionality**: Product catalog, shopping cart, checkout process
-- **State Management**: React Context for cart management
-- **Backend**: Convex for database and serverless functions
-- **Responsive Design**: Mobile-first approach
-- **Type Safety**: Full TypeScript implementation
+⚙️ Modern Framework — Built with Next.js 14 App Router, leveraging server-side rendering and static optimization.
 
-## 🛠️ Tech Stack
+🛍️ E-commerce Core — Includes product listings, detailed pages, a shopping cart, and checkout flow.
 
-- **Frontend**: Next.js 14, React 18, TypeScript, Tailwind CSS
-- **Backend**: Convex (Database + Serverless Functions)
-- **Deployment**: Vercel (Hosting)
-- **Email**: Resend (for order confirmations)
+🧠 Global State Management — Powered by React Context API for seamless cart operations.
 
-## 📦 Project Structure
+🗄️ Serverless Backend — Integrated with Convex for real-time database and serverless functions.
+
+📱 Responsive UI — Designed mobile-first to deliver a consistent experience across all screen sizes.
+
+🔒 Type-Safe Codebase — 100% TypeScript to ensure reliability and maintainability.
+
+🛠️ Tech Stack
+Category	Technologies
+Frontend	Next.js 14, React 18, TypeScript, Tailwind CSS
+Backend	Convex (Database + Serverless Functions)
+Hosting	Vercel
+Email Service	Resend (for order confirmations)
